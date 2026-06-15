@@ -17,10 +17,7 @@ export async function generateMetadata({
   const content = await getLandingContent();
 
   return {
-    title:
-      safeLocale === "pt-BR"
-        ? "Bots Discord personalizados"
-        : "Custom Discord bots",
+    title: "WhiteBots",
     description: content.settings.heroSubtitle[safeLocale],
     alternates: {
       canonical: `/${safeLocale}`,

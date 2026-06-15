@@ -20,10 +20,7 @@ const display = Space_Grotesk({
 
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
-  title: {
-    default: "WhiteBots | Bots Discord personalizados",
-    template: "%s | WhiteBots"
-  },
+  title: "WhiteBots",
   description:
     "Bots personalizados para Discord com módulos sob medida, alta qualidade visual, segurança e automação profissional.",
   applicationName: "WhiteBots",
