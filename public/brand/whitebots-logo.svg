@@ -1,0 +1,17 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">WhiteBots logo</title>
+  <desc id="desc">Stylized WhiteBots robot mark with WB monogram.</desc>
+  <rect width="1024" height="1024" rx="160" fill="#050508"/>
+  <circle cx="512" cy="380" r="270" fill="#0d0f17" stroke="#f8fafc" stroke-width="28"/>
+  <circle cx="512" cy="380" r="232" stroke="#8B5CF6" stroke-width="18"/>
+  <path d="M338 420C338 331.634 409.634 260 498 260H526C614.366 260 686 331.634 686 420V448C686 536.366 614.366 608 526 608H498C409.634 608 338 536.366 338 448V420Z" fill="#F8FAFC"/>
+  <path d="M382 418C382 369.399 421.399 330 470 330H554C602.601 330 642 369.399 642 418C642 466.601 602.601 506 554 506H470C421.399 506 382 466.601 382 418Z" fill="#0A0D16"/>
+  <rect x="443" y="382" width="42" height="92" rx="21" fill="#A78BFA"/>
+  <rect x="539" y="382" width="42" height="92" rx="21" fill="#A78BFA"/>
+  <path d="M492 260L506 165H518L532 260H492Z" fill="#F8FAFC"/>
+  <circle cx="512" cy="146" r="44" fill="#F8FAFC" stroke="#B7BFCC" stroke-width="10"/>
+  <path d="M124 584H249L316 739L384 584H491L559 739L626 584H900L826 781H700L745 660H690L626 832H502L438 660H433L369 832H244L124 584Z" fill="#F8FAFC"/>
+  <path d="M606 650H804C851 650 882 679 882 720C882 745 870 766 848 779C878 792 896 817 896 850C896 900 858 934 803 934H606V650ZM703 721V755H784C796 755 805 748 805 738C805 728 796 721 784 721H703ZM703 820V858H793C808 858 818 851 818 839C818 827 808 820 793 820H703Z" fill="#F8FAFC"/>
+  <path d="M114 852H910L864 944H160L114 852Z" fill="#0D0F17" stroke="#F8FAFC" stroke-width="20"/>
+  <text x="512" y="918" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="900" text-anchor="middle" letter-spacing="12">WHITE <tspan fill="#A78BFA">BOTS</tspan></text>
+</svg>
